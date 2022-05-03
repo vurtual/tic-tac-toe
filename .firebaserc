@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fireship-angular-tictactoe": {
+      "hosting": {
+        "tic-tac-toe": [
+          "fireship-angular-tictactoe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fireship-angular-tictactoe"
+  }
+}
